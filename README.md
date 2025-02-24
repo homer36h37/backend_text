@@ -53,14 +53,49 @@ Skills: Python / JS / PHP
 - 🔭 I’m currently working on this page. 
 
 
+fastapi run main.py
+
+   FastAPI   Starting production server 🚀
+
+             Searching for package file structure from directories
+             with __init__.py files
+             Importing from /home/user/code/awesomeapp
+
+    module   🐍 main.py
+
+      code   Importing the FastAPI app object from the module with
+             the following code:
+
+             from main import app
+
+       app   Using import string: main:app
+
+    server   Server started at http://0.0.0.0:8000
+    server   Documentation at http://0.0.0.0:8000/docs
+
+             Logs:
+
+      INFO   Started server process [2306215]
+      INFO   Waiting for application startup.
+      INFO   Application startup complete.
+      INFO   Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C
+             to quit)
+
+restart ↻
+
+
+###  👋 please add some touches for interaction with frontend
 
 
 
+![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_001.jpg)
 
-![Image alt](https://github.com/homer36h37/frontend_text/blob/main/img/img_001.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_002.jpg)
 
-![Image alt](https://github.com/homer36h37/frontend_text/blob/main/img/img_002.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_003.jpg)
 
-![Image alt](https://github.com/homer36h37/frontend_text/blob/main/img/img_003.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_004.jpg)
 
-![Image alt](https://github.com/homer36h37/frontend_text/blob/main/img/img_004.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_005.jpg)
+
+![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_006.jpg)
