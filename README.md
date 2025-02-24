@@ -88,14 +88,14 @@ restart ↻
 
 
 
-![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_001.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/blob/main/img/img_001.jpg)
 
-![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_002.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/blob/main/img/img_002.jpg)
 
-![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_003.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/blob/main/img/img_003.jpg)
 
-![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_004.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/blob/main/img/img_004.jpg)
 
-![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_005.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/blob/main/img/img_005.jpg)
 
-![Image alt](https://github.com/homer36h37/backend_text/edit/main/img/img_006.jpg)
+![Image alt](https://github.com/homer36h37/backend_text/blob/main/img/img_006.jpg)
